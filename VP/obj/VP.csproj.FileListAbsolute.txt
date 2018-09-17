@@ -1,0 +1,16 @@
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form3.resources
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form4.resources

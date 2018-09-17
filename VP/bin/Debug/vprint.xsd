@@ -1,0 +1,393 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="doc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="datatype" type="xs:string" minOccurs="0" />
+        <xs:element name="translate" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="prescription" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="PrescriptionKey" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PrescriptionDateTime" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PrescriptionType" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PatientSex" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PatientBrithday" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Department" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Physician" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="ReceiveDateTime" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PackDateTime" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PrescriptionNo" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PatientNo" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PatientID" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PatientName" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="IsPacked" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="DataGridView_OPDrug" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="DrugName" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="TTP" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="TimesQty" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Days" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Total" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="IsPack" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                        <xs:attribute name="column" type="xs:string" />
+                        <xs:attribute name="type" type="xs:string" />
+                        <xs:attribute name="width" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="ControlPanel" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="groupBox20" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="groupBox21" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="groupBox22" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="groupBox23" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="groupBox24" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="checkBox23_1" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="checkBox23_2" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="checkBox23_3" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="radioButton24_1" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="radioButton24_2" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="radioButton24_3" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="labelPackSeq" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="comboBox1" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Item" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:attribute name="text" type="xs:string" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="button25_1.Text" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="button25_2.Text" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="button25_3.Text" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="button25_4.Text" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="button25_5.Text" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="button25_6.Text" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Layout" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="LabelName" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="LabelType" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="LabelText" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="X" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Y" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="W" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="H" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Align" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="FontType" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="FontSize" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="FontBlod" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="FontStrikeout" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="FontItalic" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="FontUnderline" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Visible" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Image" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="ImagePath" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="text" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="doc" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

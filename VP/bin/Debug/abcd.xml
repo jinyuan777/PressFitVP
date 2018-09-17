@@ -1,0 +1,40 @@
+<NewDataSet>
+  <item type="4 注射" desc="Akineton-iNJ" remark="1" local_code="IAK" id="B013875209" divided_dose="0.500" daily_dose="0.500" total_dose="0.50" freq="ST 立即使用" days="1" way="INJ INJ " price="0.00" multiplier="1.00" memo="" dum="cc" dnop="" dtp1="   4級">
+  </item>
+  <item type="2 內服" desc="C.P.M." remark="" local_code="CPM" id="A005391100" divided_dose="1.000" daily_dose="4.000" total_dose="8.00" freq="QID 每日四次" days="2" way="PO 口服" price="0.00" multiplier="1.00" memo="" dum="#" dnop="" dtp1="   4級">
+  </item>
+  <item type="2 內服" desc="Clindamycin" remark="" local_code="C" id="A032137100" divided_dose="1.000" daily_dose="1.000" total_dose="1.00" freq="TID 1天1次" days="1" way="PO 口服" price="2.36" multiplier="1.00" memo="" dum="CP" dnop="" dtp1="   4級">
+  </item>
+  <item type="4 注射" desc="Valium-iNJ" remark="" local_code="IVAL" id="A010830212" divided_dose="2.000" daily_dose="2.000" total_dose="2.00" freq="ST 立即使用" days="1" way="IV IV  " price="3.00" multiplier="1.00" memo="" dum="cc" dnop="" dtp1="   4級">
+  </item>
+  <item type="2 內服" desc="B/N Cream" remark="" local_code="BN" id="" divided_dose="1.000" daily_dose="3.000" total_dose="6.00" freq="TID 每日三次" days="2" way="EXT 外用" price="-98.00" multiplier="1.00" memo="" dum="盒" dnop="" dtp1="   4級">
+  </item>
+  <case from="7054410400" to="" local_id="0004461" date="20091016" time="095419" app="VISW" request_method="">
+    <orders days="2" mill="no" dosage_method="5 次量法">
+    </orders>
+    <continous_prescription start_at="20091016" count="" total="" other_mo="">
+    </continous_prescription>
+    <study doctor_id="7054410400" subject="04 小兒  ">
+      <treatments>
+      </treatments>
+      <chief_complain>CC:AOM BIL. </chief_complain>
+      <physical_examination>
+      </physical_examination>
+      <diseases>
+        <item code="4659" type="ICD9" desc="急性上呼吸道感染，未明示位置者">
+        </item>
+      </diseases>
+    </study>
+    <insurance insurance_type="A 天災" serial_code="0001" except_code="" copayment_code="D10" case_type="09 他專" pay_type="1 一般" ldistp_type="4 普疾" release_type="0 自調">
+    </insurance>
+    <profile>
+      <person name="張勳誠" type="0" id="B120134198" foreigner="no" sex="0 女" birth="19570819" birth_order=" " phone="29381380" family="" mobile="" email="" blood="" blood_rh="">
+        <addr>台北市興義街2號</addr>
+        <remark>
+        </remark>
+        <allergy>
+        </allergy>
+      </person>
+    </profile>
+  </case>
+</NewDataSet>

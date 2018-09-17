@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="big5"?>
+<case
+  from="7054410400"
+  to=""
+  local_id="0124554"
+  date="20091102"
+  time="214637"
+  app="VISW"
+  request_method=""
+  file_text="A100712828200911022146371">
+  <profile>
+    <person
+      name="周紹彝"
+      type="0"
+      id="A100712828"
+      foreigner="no"
+      sex="1"
+      sextext="男"
+      birth="19271010"
+      birth_order=" "
+      phone="29317365"
+      family=""
+      mobile=""
+      email=""
+      blood=""
+      blood_rh="">
+      <addr><![CDATA[台北市興隆路2段220巷31弄70號3F]]></addr>
+      <remark><![CDATA[Hypertension \asa]]></remark>
+      <allergy><![CDATA[]]></allergy>
+    </person>
+  </profile>
+  <insurance
+    insurance_type="A"
+    insurance_type_text="天災"
+    serial_code="0001"
+    except_code=""
+    copayment_code="D20"
+    case_type="09"
+    case_type_text="他專"
+    pay_type="1"
+    pay_type_text="一般"
+    ldistp_type="4"
+    ldistp_type_text="普疾"
+    release_type="0"
+    release_type_text="自調" />
+  <study doctor_id="A123456789" doctor_name="張醫師  " subject="04" subject_text="小兒  ">
+    <diseases>
+      <item code="4659" type="ICD9" desc="急性上呼吸道感染，未明示位置者" />
+    </diseases>
+    <treatments>
+    </treatments>
+    <chief_complain><![CDATA[CC:]]></chief_complain>
+    <physical_examination><![CDATA[]]></physical_examination>
+  </study>
+  <continous_prescription start_at="20091102" count="" total="" other_mo="04" />
+  <orders
+    days="11"
+    mill="no"
+    dosage_method="5"
+    dosage_method_text="次量法">
+    <item
+      remark="1"
+      local_code="CABO"
+      id="A030898100"
+      type="2"
+      type_text="內服"
+      divided_dose="1.000"
+      daily_dose="4.000"
+      total_dose="44.00"
+      freq="QID"                         
+      freq_text="每日四次"
+      days="11"                                       
+      way="PO"                              
+      way_text="口服"
+      price="2.26"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Cabocystin"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="COAN"
+      id="A034100100"
+      type="2"
+      type_text="內服"
+      divided_dose="1.000"
+      daily_dose="4.000"
+      total_dose="44.00"
+      freq="QID"                         
+      freq_text="每日四次"
+      days="11"                                       
+      way="PO"                              
+      way_text="口服"
+      price="0.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Terngso"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="D10"
+      id="A040402100"
+      type="2"
+      type_text="內服"
+      divided_dose="1.000"
+      daily_dose="3.000"
+      total_dose="33.00"
+      freq="TID"                         
+      freq_text="每日三次"
+      days="11"                                       
+      way="PO"                              
+      way_text="口服"
+      price="1.51"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Danzen-10"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+  </orders>
+</case>

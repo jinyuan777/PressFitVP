@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="case" type="case_type">
+  </xsd:element>
+  <xsd:complexType name="case_type">
+    <xsd:all>
+      <xsd:element name="profile" type="profile_type" maxOccurs="1" minOccurs="1">
+      </xsd:element>
+      <xsd:element name="study" type="study_type" maxOccurs="1" minOccurs="1">
+      </xsd:element>
+      <xsd:element name="insurance" type="insurance_type" maxOccurs="1" minOccurs="0">
+      </xsd:element>
+      <xsd:element name="continous_prescription" type="continous_prescription_type" maxOccurs="1" minOccurs="0">
+      </xsd:element>
+      <xsd:element name="orders" type="orders_type" maxOccurs="1" minOccurs="1">
+      </xsd:element>
+    </xsd:all>
+    <xsd:attribute name="from" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>來源院所(健保碼/機構代碼)</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="to" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>來源院所(健保碼/機構代碼)</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="local_id" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>傳送端(診所)病歷號</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="date" type="date7">
+      <xsd:annotation>
+        <xsd:documentation>病歷日期</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="time" type="time6">
+      <xsd:annotation>
+        <xsd:documentation>病歷時間</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="app" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>傳送系統(識別用)</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="request_method" type="enum_requestMethod">
+      <xsd:annotation>
+        <xsd:documentation>
+        </xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="lax">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:complexType name="person_type">
+    <xsd:all>
+      <xsd:element name="addr" type="xsd:string" maxOccurs="1" minOccurs="0">
+      </xsd:element>
+      <xsd:element name="remark" type="xsd:string" maxOccurs="1" minOccurs="0">
+      </xsd:element>
+      <xsd:element name="allergy" type="xsd:string" maxOccurs="1" minOccurs="0">
+      </xsd:element>
+    </xsd:all>
+    <xsd:attribute name="name" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>姓名</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="type" type="enum_personType">
+    </xsd:attribute>
+    <xsd:attribute name="id" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>
+        </xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="foreigner" type="enum_yesNo">
+      <xsd:annotation>
+        <xsd:documentation>yes:外籍, no:本國</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="sex" type="enum_sex">
+    </xsd:attribute>
+    <xsd:attribute name="birth" type="date7">
+    </xsd:attribute>
+    <xsd:attribute name="birth_order" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>第 n 胎</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="phone" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>電話</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="family" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>家族號</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="mobile" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>行動電話</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="email" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>電子郵件</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="blood" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>血型</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="blood_rh" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>陰、陽性</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="lax">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:complexType name="profile_type">
+    <xsd:sequence maxOccurs="unbounded" minOccurs="1">
+      <xsd:element name="person" type="person_type" maxOccurs="unbounded" minOccurs="1">
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="insurance_type">
+    <xsd:attribute name="insurance_type" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>身分別, (空白):自費診, 1:重傷病, 2:生產, 3:福利, 4:榮民眷, 5:結核病, 6:職業病, 7:無醫島, 8:山地離, 9:其它, A:健保診</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="serial_code" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>就醫序號</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="except_code" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>異常代碼</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="copayment_code" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>部分負擔代號</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="case_type" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>案件分類</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="pay_type" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>勞職</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="release_type" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>調劑別(處方調劑方式), 0:自調, 1:委外, 2:無藥, 4:殘障, 5:孕婦, 6:緊急, I:外來, O:流失</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="skip">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:complexType name="study_type">
+    <xsd:all>
+      <xsd:element name="diseases" type="disease_type" maxOccurs="1" minOccurs="0">
+        <xsd:annotation>
+          <xsd:documentation>病代</xsd:documentation>
+        </xsd:annotation>
+      </xsd:element>
+      <xsd:element name="treatments" type="treatment_type" maxOccurs="1" minOccurs="0">
+        <xsd:annotation>
+          <xsd:documentation>主治</xsd:documentation>
+        </xsd:annotation>
+      </xsd:element>
+      <xsd:element name="chief_complain" type="xsd:string" maxOccurs="1" minOccurs="0">
+        <xsd:annotation>
+          <xsd:documentation>主訴</xsd:documentation>
+        </xsd:annotation>
+      </xsd:element>
+      <xsd:element name="physical_examination" type="xsd:string" maxOccurs="1" minOccurs="0">
+        <xsd:annotation>
+          <xsd:documentation>理學檢查</xsd:documentation>
+        </xsd:annotation>
+      </xsd:element>
+    </xsd:all>
+    <xsd:attribute name="doctor_id" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>醫師身分證號</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="subject" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>就診科別</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="lax">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:complexType name="disease_item_type">
+    <xsd:attribute name="code" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="type" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="desc" type="xsd:string">
+    </xsd:attribute>
+  </xsd:complexType>
+  <xsd:complexType name="disease_type">
+    <xsd:sequence>
+      <xsd:element name="item" type="disease_item_type" maxOccurs="unbounded" minOccurs="0">
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="treatment_item_type">
+    <xsd:attribute name="code" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="desc" type="xsd:string">
+    </xsd:attribute>
+  </xsd:complexType>
+  <xsd:complexType name="treatment_type">
+    <xsd:sequence>
+      <xsd:element name="item" type="treatment_item_type" maxOccurs="unbounded" minOccurs="0">
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="continous_prescription_type">
+    <xsd:choice>
+      <xsd:any minOccurs="0" maxOccurs="unbounded">
+      </xsd:any>
+    </xsd:choice>
+    <xsd:attribute name="start_at" type="date7">
+    </xsd:attribute>
+    <xsd:attribute name="count" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="total" type="xsd:string">
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="lax">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:complexType name="order_item_type">
+    <xsd:attribute name="remark" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="local_code" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="id" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>健保碼</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="dosage_method" type="enum_methodOfDosage">
+      <xsd:annotation>
+        <xsd:documentation>量法</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="type" type="xsd:string">
+    </xsd:attribute>
+    <xsd:attribute name="divided_dose" type="xsd:double">
+      <xsd:annotation>
+        <xsd:documentation>次量</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="daily_dose" type="xsd:double">
+      <xsd:annotation>
+        <xsd:documentation>日量</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="total_dose" type="xsd:double">
+      <xsd:annotation>
+        <xsd:documentation>總量</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="freq" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>頻率</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="days" type="xsd:double">
+      <xsd:annotation>
+        <xsd:documentation>日份</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="way" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>途徑</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="mill" type="enum_yesNo">
+    </xsd:attribute>
+    <xsd:attribute name="price" type="xsd:double">
+      <xsd:annotation>
+        <xsd:documentation>價格 (單位價x總量)</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="multiplier" type="xsd:double">
+      <xsd:annotation>
+        <xsd:documentation>加成</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="memo" type="xsd:string">
+      <xsd:annotation>
+        <xsd:documentation>備註</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+    <xsd:attribute name="desc" type="xsd:string">
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="lax">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:complexType name="orders_type">
+    <xsd:sequence>
+      <xsd:element name="item" type="order_item_type" maxOccurs="unbounded" minOccurs="0">
+      </xsd:element>
+    </xsd:sequence>
+    <xsd:attribute name="days" type="xsd:int">
+    </xsd:attribute>
+    <xsd:attribute name="dosage_method" type="enum_methodOfDosage">
+    </xsd:attribute>
+    <xsd:attribute name="mill" type="enum_yesNo">
+    </xsd:attribute>
+    <xsd:anyAttribute processContents="lax">
+    </xsd:anyAttribute>
+  </xsd:complexType>
+  <xsd:simpleType name="enum_sex">
+    <xsd:annotation>
+      <xsd:documentation>0:女, 1:男</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="0">
+      </xsd:enumeration>
+      <xsd:enumeration value="1">
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="enum_yesNo">
+    <xsd:annotation>
+      <xsd:documentation>yes:是, no:否</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="yes">
+      </xsd:enumeration>
+      <xsd:enumeration value="no">
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="enum_methodOfDosage">
+    <xsd:annotation>
+      <xsd:documentation>2:次量, 4:日量, 5:總量</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="2">
+      </xsd:enumeration>
+      <xsd:enumeration value="4">
+      </xsd:enumeration>
+      <xsd:enumeration value="5">
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="enum_requestMethod">
+    <xsd:annotation>
+      <xsd:documentation>C1:新增, UF:修改重傳, U$:還卡重傳, UC:核對重傳, UR:掛號重傳, EI:網路不通, ES:主機無回應, GV:正常, GX:正常</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="date7">
+    <xsd:annotation>
+      <xsd:documentation>民國曆 yyymmdd, e.g., -991231, 0980421, 9991231</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="(-|[0-9])\d\d(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])">
+      </xsd:pattern>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="time6">
+    <xsd:annotation>
+      <xsd:documentation>24小時制時間, e.g., 091250, 213059</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="([01]\d|2[0-3])([0-5]\d)([0-5]\d)">
+      </xsd:pattern>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="enum_personType">
+    <xsd:annotation>
+      <xsd:documentation>1:就醫者, 2:被依附者</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+    </xsd:restriction>
+  </xsd:simpleType>
+</xsd:schema>

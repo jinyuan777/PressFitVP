@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--此檔案是由 XML 結構描述設計工具自動產生。它儲存元件在設計工具介面上的版面配置資訊。-->
+<XSDDesignerLayout Style="LeftRight" layoutVersion="2" viewPortLeft="0" viewPortTop="-2995" zoom="100">
+    <case_XmlElement left="317" top="265" width="5292" height="7487" selected="0" zOrder="0" index="0" expanded="1">
+        <profile_XmlElement left="6243" top="-4482" width="5292" height="2990" selected="0" zOrder="47" index="0" expanded="1">
+            <person_XmlElement left="12169" top="-4548" width="5292" height="2990" selected="0" zOrder="62" index="0" expanded="0" />
+        </profile_XmlElement>
+        <study_XmlElement left="6243" top="-984" width="5292" height="2990" selected="0" zOrder="49" index="1" expanded="0" />
+        <insurance_XmlElement left="6243" top="2514" width="5292" height="2990" selected="0" zOrder="51" index="2" expanded="0" />
+        <continous_prescription_XmlElement left="6243" top="6012" width="5292" height="2990" selected="0" zOrder="54" index="3" expanded="0" />
+        <orders_XmlElement left="6243" top="9510" width="5292" height="2990" selected="0" zOrder="57" index="4" expanded="0" />
+    </case_XmlElement>
+    <case_type_XmlComplexType left="634" top="11144" width="5292" height="2990" selected="0" zOrder="1" index="1" expanded="1">
+        <profile_XmlElement left="6560" top="3884" width="5292" height="2990" selected="0" zOrder="3" index="0" expanded="0" />
+        <study_XmlElement left="6560" top="7514" width="5292" height="2990" selected="0" zOrder="6" index="1" expanded="0" />
+        <insurance_XmlElement left="6560" top="11144" width="5292" height="2990" selected="0" zOrder="9" index="2" expanded="0" />
+        <continous_prescription_XmlElement left="6560" top="14774" width="5292" height="3122" selected="0" zOrder="12" index="3" expanded="0" />
+        <orders_XmlElement left="6560" top="18404" width="5292" height="3122" selected="0" zOrder="14" index="4" expanded="0" />
+    </case_type_XmlComplexType>
+    <person_type_XmlComplexType left="634" top="22034" width="5292" height="3122" selected="0" zOrder="16" index="2" expanded="1" />
+    <profile_type_XmlComplexType left="634" top="25664" width="5292" height="3122" selected="0" zOrder="17" index="3" expanded="1">
+        <person_XmlElement left="6560" top="25664" width="5292" height="3122" selected="0" zOrder="18" index="0" expanded="0" />
+    </profile_type_XmlComplexType>
+    <insurance_type_XmlComplexType left="634" top="29294" width="5292" height="3122" selected="0" zOrder="20" index="4" expanded="1" />
+    <study_type_XmlComplexType left="634" top="34739" width="5292" height="3122" selected="0" zOrder="21" index="5" expanded="1">
+        <diseases_XmlElement left="6560" top="32924" width="5292" height="3122" selected="0" zOrder="22" index="0" expanded="0" />
+        <treatments_XmlElement left="6560" top="36554" width="5292" height="3122" selected="0" zOrder="24" index="1" expanded="0" />
+    </study_type_XmlComplexType>
+    <disease_item_type_XmlComplexType left="634" top="40184" width="5292" height="3122" selected="0" zOrder="26" index="6" expanded="1" />
+    <disease_type_XmlComplexType left="634" top="43814" width="5292" height="3122" selected="0" zOrder="27" index="7" expanded="1">
+        <item_XmlElement left="6560" top="43814" width="5292" height="3122" selected="0" zOrder="28" index="0" expanded="0" />
+    </disease_type_XmlComplexType>
+    <treatment_item_type_XmlComplexType left="634" top="47444" width="5292" height="3122" selected="0" zOrder="30" index="8" expanded="1" />
+    <treatment_type_XmlComplexType left="634" top="51074" width="5292" height="3122" selected="0" zOrder="31" index="9" expanded="1">
+        <item_XmlElement left="6560" top="51074" width="5292" height="3122" selected="0" zOrder="32" index="0" expanded="0" />
+    </treatment_type_XmlComplexType>
+    <continous_prescription_type_XmlComplexType left="634" top="54704" width="5292" height="3122" selected="0" zOrder="34" index="10" expanded="1" />
+    <order_item_type_XmlComplexType left="634" top="58334" width="5292" height="3122" selected="0" zOrder="35" index="11" expanded="1" />
+    <orders_type_XmlComplexType left="634" top="61964" width="5292" height="3122" selected="0" zOrder="36" index="12" expanded="1">
+        <item_XmlElement left="6560" top="61964" width="5292" height="3122" selected="0" zOrder="37" index="0" expanded="0" />
+    </orders_type_XmlComplexType>
+    <enum_sex_XmlSimpleType left="634" top="65594" width="5292" height="3122" selected="0" zOrder="39" index="13" expanded="1" />
+    <enum_yesNo_XmlSimpleType left="634" top="69224" width="5292" height="3122" selected="0" zOrder="40" index="14" expanded="1" />
+    <enum_methodOfDosage_XmlSimpleType left="634" top="72854" width="5292" height="3122" selected="0" zOrder="41" index="15" expanded="1" />
+    <enum_requestMethod_XmlSimpleType left="634" top="76484" width="5292" height="3122" selected="0" zOrder="42" index="16" expanded="1" />
+    <date7_XmlSimpleType left="634" top="80114" width="5292" height="3122" selected="0" zOrder="43" index="17" expanded="1" />
+    <time6_XmlSimpleType left="634" top="83744" width="5292" height="3122" selected="0" zOrder="44" index="18" expanded="1" />
+    <enum_personType_XmlSimpleType left="634" top="87374" width="5292" height="3122" selected="0" zOrder="45" index="19" expanded="1" />
+</XSDDesignerLayout>

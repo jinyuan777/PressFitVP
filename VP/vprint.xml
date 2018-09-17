@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <translate>
+    <prescription>
+      <PrescriptionKey      text ="PrescriptionKey" column ="PrescriptionKey"       type="text"   width="0" />
+      <PrescriptionDateTime text ="處方日期"        column ="PrescriptionDateTime"  type="text"   width="0" />
+      <PrescriptionType     text ="處方類別"        column ="PrescriptionType"      type="text"   width="0" />
+      <PatientSex           text ="性別"            column ="PatientSex"            type="text"   width="0" />
+      <PatientBrithday      text ="生日"            column ="PatientBrithday"       type="text"   width="0" />
+      <Department           text ="科別"            column ="Department"            type="text"   width="0" />
+      <Physician            text ="醫生姓名"        column ="Physician"             type="text"   width="0" />
+      <ReceiveDateTime      text ="接收日期"        column ="ReceiveDateTime"       type="text"   width="0" />
+      <PackDateTime         text ="包裝日期"        column ="PackDateTime"          type="text"   width="0" />"
+      <PrescriptionNo       text ="處方號碼"        column ="PrescriptionNo"        type="text"   width="0" />
+      <PatientNo            text ="病歷號碼"        column ="PatientNo"             type="text"   width="0" />      
+      <PatientID            text ="身份證號"        column ="PatientID"             type="text"   width="0" />
+      <PatientName          text ="患者姓名"        column ="PatientName"           type="text"   width="0" />
+      <IsPacked             text ="已包裝"          column ="IsPacked"              type="check"  width="0" />
+      <ReceiveNo            text ="領藥號碼"        column ="ReceiveNo"             type="text"   width="0" />
+    </prescription>
+
+    <DataGridView_OPDrug>
+      <DrugName text ="藥品名稱"  column ="DrugName"  type ="text"  width="0" />
+      <TTP      text ="服用方式"  column ="TTP"       type="text"   width="0" />
+      <TimesQty text ="用量"      column ="TimesQty"  type="text"   width="0" />
+      <Days     text ="天數"      column ="Days"      type="text"   width="0" />
+      <Total    text ="總量"      column ="Total"     type="text"   width="0" />
+      <IsPack   text ="是否包裝"  column ="IsPack"    type="check"  width="0" />
+    </DataGridView_OPDrug>
+
+    <ControlPanel>
+      <groupBox20 text ="包裝包數" />
+      <groupBox21 text ="藥粉槽位置" />
+      <groupBox22 text ="封口溫度" />
+      <groupBox23 text ="包裝設定" />
+      <groupBox24 text ="空包設定" />
+
+      <checkBox23_1 text="印表功能" />
+      <checkBox23_2 text="自動落藥" />
+      <checkBox23_3 text="加強震動" />
+
+      <radioButton24_1 text="無空包" />
+      <radioButton24_2 text="一包空包" />
+      <radioButton24_3 text="二包空包" />
+
+      <labelPackSeq text ="包裝順序" />
+      <comboBox1>
+        <Item text ="依每餐順序"/>
+        <Item text ="依餐別分類"/>
+      </comboBox1>
+
+      <button25_1.Text text="錠劑包裝" />
+      <button25_2.Text text="粉劑包裝" />
+      <button25_3.Text text="混合包裝" />
+      <button25_4.Text text="清潔藥粉槽" />
+      <button25_5.Text text="暫停包裝" />
+      <button25_6.Text text="取消包裝" />
+    </ControlPanel>
+
+    <Layout>
+      <LabelType    text ="類別"      column ="LabelType"    type="text"  width="0" />
+      <LabelDisplay text ="格式名稱"  column ="LabelDisplay"    type="text"  width="0" />
+    </Layout>
+    
+    <LayoutItem>
+      <LabelName text ="欄位名稱"      column ="LabelName"    type="text"  width="0" />
+      <LabelType text ="類別"          column ="LabelType"    type="text"  width="0"/>
+      <LabelText text ="內容"          column ="LabelText"    type="text"  width="0"/>
+      <X text ="X" />
+      <Y text ="Y" />
+      <W text ="寬" />
+      <H text ="高" />
+      <Align text ="對齊" />
+      <FontType text ="字型" />
+      <FontSize text ="大小" />
+      <FontBlod text ="粗體" />
+      <FontStrikeout text ="粗體" />
+      <FontItalic text ="刪除線" />
+      <FontUnderline text ="底線" />
+      <Visible text ="可見" />
+      <Image text ="影像" />
+      <ImagePath text ="影像路徑" />
+    </LayoutItem>
+  </translate>
+  <datatype>
+    
+  </datatype>  
+</doc>

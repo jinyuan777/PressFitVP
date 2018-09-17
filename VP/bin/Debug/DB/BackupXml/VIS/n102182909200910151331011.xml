@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="big5"?>
+<case
+  from="7054410400"
+  to=""
+  local_id="0016163"
+  date="20091015"
+  time="133101"
+  app="VISW"
+  request_method="">
+  <profile>
+    <person
+      name="徐明文"
+      type="0"
+      id="N102182909"
+      foreigner="no"
+      sex="0 女"
+      birth="19390226"
+      birth_order=" "
+      phone="29385839"
+      family=""
+      mobile=""
+      email=""
+      blood=""
+      blood_rh="">
+      <addr><![CDATA[台北市老泉路28號]]></addr>
+      <remark><![CDATA[]]></remark>
+      <allergy><![CDATA[]]></allergy>
+    </person>
+  </profile>
+  <insurance
+    insurance_type="A 天災"
+    serial_code="0001"
+    except_code=""
+    copayment_code="D10"
+    case_type="09 他專"
+    pay_type="1 一般"
+    ldistp_type="4 普疾"
+    release_type="0 自調" />
+  <study doctor_id="7054410400" subject="04 小兒  ">
+    <diseases>
+      <item code="4659" type="ICD9" desc="急性上呼吸道感染，未明示位置者" />
+    </diseases>
+    <treatments>
+    </treatments>
+    <chief_complain><![CDATA[CC:]]></chief_complain>
+    <physical_examination><![CDATA[]]></physical_examination>
+  </study>
+  <continous_prescription start_at="20091015" count="" total="" other_mo="" />
+  <orders
+    days="2"
+    mill="no"
+    dosage_method="5 次量法">
+    <item
+      remark="1"
+      local_code="IV"
+      id="A033925216"
+      type="4 注射"
+      divided_dose="2.000"
+      daily_dose="2.000"
+      total_dose="2.00"
+      freq="ST 立即使用"                         
+      days="1"                                       
+      way="INJ INJ "                              
+      price="3.88"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Voltaren-Inj"                                
+      dum="cc"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="ID"
+      id="A031274229"
+      type="4 注射"
+      divided_dose="1.000"
+      daily_dose="1.000"
+      total_dose="1.00"
+      freq="ST 立即使用"                         
+      days="1"                                       
+      way="INJ INJ "                              
+      price="17.30"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Decadron-iNJ"                                
+      dum="cc"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="CLEM"
+      id="A011898100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="2.000"
+      total_dose="4.00"
+      freq="BID 每日二次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="1.28"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Clemastine"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="BERO"
+      id="A034541100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="4.000"
+      total_dose="8.00"
+      freq="QID 每日四次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="1.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Berotec"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+  </orders>
+</case>

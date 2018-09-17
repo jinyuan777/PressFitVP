@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="big5"?>
+<case
+  from="7054410400"
+  to=""
+  local_id="0103513"
+  date="20091016"
+  time="095400"
+  app="VISW"
+  request_method="">
+  <profile>
+    <person
+      name="何誌"
+      type="0"
+      id="T120907285"
+      foreigner="no"
+      sex="1 男"
+      birth="19650619"
+      birth_order=" "
+      phone="27935601"
+      family=""
+      mobile=""
+      email=""
+      blood=""
+      blood_rh="">
+      <addr><![CDATA[屏東]]></addr>
+      <remark><![CDATA[]]></remark>
+      <allergy><![CDATA[]]></allergy>
+    </person>
+  </profile>
+  <insurance
+    insurance_type="A 天災"
+    serial_code="0001"
+    except_code=""
+    copayment_code="D10"
+    case_type="09 他專"
+    pay_type="1 一般"
+    ldistp_type="4 普疾"
+    release_type="0 自調" />
+  <study doctor_id="7054410400" subject="04 小兒  ">
+    <diseases>
+      <item code="4659" type="ICD9" desc="急性上呼吸道感染，未明示位置者" />
+    </diseases>
+    <treatments>
+    </treatments>
+    <chief_complain><![CDATA[CC:]]></chief_complain>
+    <physical_examination><![CDATA[]]></physical_examination>
+  </study>
+  <continous_prescription start_at="20091016" count="" total="" other_mo="" />
+  <orders
+    days="2"
+    mill="no"
+    dosage_method="5 次量法">
+    <item
+      remark="1"
+      local_code="ACTG"
+      id="A039882199"
+      type="2 內服"
+      divided_dose="2.000"
+      daily_dose="8.000"
+      total_dose="16.00"
+      freq="QID 每日四次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="0.95"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Acetaminophen Gr"                                
+      dum="Gm"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="SEC"
+      id="A040833199"
+      type="2 內服"
+      divided_dose="10.000"
+      daily_dose="40.000"
+      total_dose="80.00"
+      freq="QID 每日四次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="0.13"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Secorine Syrup"                                
+      dum="cc"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="PON2"
+      id="A020257100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="4.000"
+      total_dose="8.00"
+      freq="QID 每日四次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="0.78"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Ponstan-250"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="IV"
+      id="A033925216"
+      type="4 注射"
+      divided_dose="2.000"
+      daily_dose="2.000"
+      total_dose="2.00"
+      freq="ST 立即使用"                         
+      days="1"                                       
+      way="INJ INJ "                              
+      price="3.88"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Voltaren-Inj"                                
+      dum="cc"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+  </orders>
+</case>

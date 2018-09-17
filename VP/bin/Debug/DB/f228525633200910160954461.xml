@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="big5"?>
+<case
+  from="7054410400"
+  to=""
+  local_id="0123313"
+  date="20091016"
+  time="095446"
+  app="VISW"
+  request_method="">
+  <profile>
+    <person
+      name="魏廷安"
+      type="0"
+      id="F228525633"
+      foreigner="no"
+      sex="0 女"
+      birth="19940521"
+      birth_order=" "
+      phone="82379079"
+      family=""
+      mobile=""
+      email=""
+      blood=""
+      blood_rh="">
+      <addr><![CDATA[台北市辛亥路6段21巷18號12F]]></addr>
+      <remark><![CDATA[]]></remark>
+      <allergy><![CDATA[]]></allergy>
+    </person>
+  </profile>
+  <insurance
+    insurance_type="A 天災"
+    serial_code="0001"
+    except_code=""
+    copayment_code="D10"
+    case_type="09 他專"
+    pay_type="1 一般"
+    ldistp_type="4 普疾"
+    release_type="0 自調" />
+  <study doctor_id="7054410400" subject="04 小兒  ">
+    <diseases>
+      <item code="4659" type="ICD9" desc="急性上呼吸道感染，未明示位置者" />
+    </diseases>
+    <treatments>
+    </treatments>
+    <chief_complain><![CDATA[CC:]]></chief_complain>
+    <physical_examination><![CDATA[]]></physical_examination>
+  </study>
+  <continous_prescription start_at="20091016" count="" total="" other_mo="" />
+  <orders
+    days="2"
+    mill="no"
+    dosage_method="5 次量法">
+    <item
+      remark="1"
+      local_code="CILO"
+      id="B001505430"
+      type="3 外用"
+      divided_dose="1.000"
+      daily_dose="1.000"
+      total_dose="1.00"
+      freq="TID 每日三次"                         
+      days="2"                                       
+      way="EXT 外用"                              
+      price="0.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Ciloprine Otic Drop"                                
+      dum="cc"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="UU"
+      id="N007484338"
+      type="3 外用"
+      divided_dose="1.000"
+      daily_dose="1.000"
+      total_dose="1.00"
+      freq="TID 每日三次"                         
+      days="2"                                       
+      way="EXT 外用"                              
+      price="18.20"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="優優cream"                                
+      dum="盒"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="CLE"
+      id="A036047100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="3.000"
+      total_dose="6.00"
+      freq="TID 每日三次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="2.78"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Cleocin"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="EHM"
+      id="B019118338"
+      type="3 外用"
+      divided_dose="1.000"
+      daily_dose="1.000"
+      total_dose="1.00"
+      freq="TID 每日三次"                         
+      days="2"                                       
+      way="EXT 外用"                              
+      price="0.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Flogencyl Gle"                                
+      dum="支"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+  </orders>
+</case>

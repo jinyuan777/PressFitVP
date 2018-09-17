@@ -1,0 +1,950 @@
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form3.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form4.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C#\VPrint\VP\obj\Debug\VP.Form7.resources
+D:\2.Project\T-P\C#\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0513\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.Form6.resources
+D:\2.Project\T-P\C# 0513\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0517\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.Form6.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0517\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0518\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.Form6.resources
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0518\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.Form6.resources
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0519\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0519\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Form6.resources
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0520\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0520\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0521\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.Form2.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0521\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0525\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0525\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0528\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\C# 0528\VPrint\VP\obj\Debug\VP.Form11.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0531\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Form11.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0531\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form11.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\2.Project\T-P\C# 0604\VPrint\VP\bin\Debug\IBM.Data.U2.Ucinet.dll
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form11.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0625\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0625\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\C# 0801\VPrint\VP\bin\Debug\IBM.Data.U2.Ucinet.dll
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form11.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\C# 0801\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\CGMF0910\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form11.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\CGMF0910\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\CGMF1206\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\CGMF1206\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\CGMF1222\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.Form5.resources
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\CGMF1222\VPrint\VP\obj\Debug\VP.pdb
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\PRINTER.mdb
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\VP.exe.config
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\VP.exe
+F:\T-P\CGMF0216\VPrint\VP\bin\Debug\VP.pdb
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Form1.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Form10.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Form13.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Form5.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Form8.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Form9.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.exe
+F:\T-P\CGMF0216\VPrint\VP\obj\Debug\VP.pdb
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTER.mdb
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.exe.config
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.exe
+F:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.pdb
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form1.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form10.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form13.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form5.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form8.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form9.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.exe
+F:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.pdb
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTER.mdb
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.exe.config
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.exe
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.pdb
+I:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\IBM.Data.U2.Ucinet.dll
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form1.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form10.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form13.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form5.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form8.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form9.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.exe
+I:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.pdb
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTER.mdb
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.exe.config
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.exe
+H:\T-P\YOUNGMIN 0221\VPrint\VP\bin\Debug\VP.pdb
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form1.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form10.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form13.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form5.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form8.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Form9.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.exe
+H:\T-P\YOUNGMIN 0221\VPrint\VP\obj\Debug\VP.pdb
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form1.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form10.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form13.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form5.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form8.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form9.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe
+F:\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.pdb
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe.config
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.pdb
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\bin\Debug\SiLab.dll
+D:\2.Project\T-P\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe.config
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.pdb
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\bin\Debug\SiLab.dll
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe
+D:\ATP_BACKUP\ATP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe.config
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.pdb
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\SiLab.dll
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.application
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.application
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.application
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.exe
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.application
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.exe
+D:\20120412\ATP_BACKUP\YOUNGMIN0501\VPrint\VP\obj\Debug\VP.pdb
+D:\20120412\新樓\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\新樓\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\新樓\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\新樓\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\新樓\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\新樓\VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\新樓\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\新樓\VPrint\VP\bin\Debug\VP.application
+D:\20120412\新樓\VPrint\VP\bin\Debug\VP.exe
+D:\20120412\新樓\VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\新樓\VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\新樓\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.application
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.exe
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.pdb
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\新樓\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\20120412\八德\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\八德\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\八德\VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\八德\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\八德\VPrint\VP\bin\Debug\VP.application
+D:\20120412\八德\VPrint\VP\bin\Debug\VP.exe
+D:\20120412\八德\VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\八德\VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\八德\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.application
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.exe
+D:\20120412\八德\VPrint\VP\obj\Debug\VP.pdb
+F:\八德\VPrint\VP\bin\Debug\PRINTER.mdb
+F:\八德\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+F:\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+F:\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+F:\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+F:\八德\VPrint\VP\bin\Debug\VP.exe.config
+F:\八德\VPrint\VP\bin\Debug\VP.exe.manifest
+F:\八德\VPrint\VP\bin\Debug\VP.application
+F:\八德\VPrint\VP\bin\Debug\VP.exe
+F:\八德\VPrint\VP\bin\Debug\VP.pdb
+F:\八德\VPrint\VP\bin\Debug\SiLab.dll
+F:\八德\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+F:\八德\VPrint\VP\obj\Debug\VP.Form1.resources
+F:\八德\VPrint\VP\obj\Debug\VP.Form8.resources
+F:\八德\VPrint\VP\obj\Debug\VP.Form9.resources
+F:\八德\VPrint\VP\obj\Debug\VP.FREQ.resources
+F:\八德\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+F:\八德\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+F:\八德\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+F:\八德\VPrint\VP\obj\Debug\VP.TTP.resources
+F:\八德\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+F:\八德\VPrint\VP\obj\Debug\VP.exe.manifest
+F:\八德\VPrint\VP\obj\Debug\VP.application
+F:\八德\VPrint\VP\obj\Debug\VP.exe
+F:\八德\VPrint\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\VP.exe.config
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\VP.application
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\VP.exe
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\VP.pdb
+D:\ATP_BACKUP\八德\VPrint\VP\bin\Debug\SiLab.dll
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.application
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.exe
+D:\ATP_BACKUP\八德\VPrint\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.Form1.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.Form8.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.Form9.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.FREQ.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.Properties.Resources.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.PRTFORM.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.RrportList.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.TTP.resources
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.exe
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\PRINTER.mdb
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.xsc
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.xsd
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.xss
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\VP.exe.config
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\VP.exe.manifest
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\VP.application
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\VP.exe
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\VP.pdb
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\SiLab.dll
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\office.dll
+D:\ATP_BACKUP\八德\VPrint130220\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.exe.manifest
+D:\ATP_BACKUP\八德\VPrint130220\VP\obj\Debug\VP.application
+D:\20120412\八德\VPrint130220\VP\bin\Debug\PRINTER.mdb
+D:\20120412\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\八德\VPrint130220\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\八德\VPrint130220\VP\bin\Debug\VP.exe.config
+D:\20120412\八德\VPrint130220\VP\bin\Debug\VP.exe.manifest
+D:\20120412\八德\VPrint130220\VP\bin\Debug\VP.application
+D:\20120412\八德\VPrint130220\VP\bin\Debug\VP.exe
+D:\20120412\八德\VPrint130220\VP\bin\Debug\VP.pdb
+D:\20120412\八德\VPrint130220\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20120412\八德\VPrint130220\VP\bin\Debug\SiLab.dll
+D:\20120412\八德\VPrint130220\VP\bin\Debug\office.dll
+D:\20120412\八德\VPrint130220\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\八德\VPrint130220\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.Form1.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.Form8.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.Form9.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.TTP.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.exe.manifest
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.application
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.exe
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.pdb
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.Form10.resources
+D:\20120412\八德\VPrint130220\VP\obj\Debug\VP.Form12.resources
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\VP.application
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\VP.exe
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\office.dll
+D:\20120412\中興\中醫\VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.application
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.exe
+D:\20120412\中興\中醫\VPrint\VP\obj\Debug\VP.pdb
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\VP.application
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\VP.exe
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\office.dll
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.application
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.exe
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.pdb
+D:\20120412\中興\IPD西藥磨粉SPEC\VPrint\VP\obj\Debug\VP.HIS_FORM.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.HIS_FORM.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.exe
+D:\20120412\署桃\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\署桃\VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\署桃\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\署桃\VPrint\VP\bin\Debug\VP.application
+D:\20120412\署桃\VPrint\VP\bin\Debug\VP.exe
+D:\20120412\署桃\VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\署桃\VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20120412\署桃\VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\署桃\VPrint\VP\bin\Debug\office.dll
+D:\20120412\署桃\VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.application
+D:\20120412\署桃\VPrint\VP\obj\Debug\VP.pdb
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.HIS_FORM.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.exe
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.exe.config
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.application
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.exe
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.pdb
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\SiLab.dll
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\office.dll
+D:\ATP_BACKUP\署桃\VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.application
+D:\ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.pdb
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTER.mdb
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.exe.config
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.exe.manifest
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.application
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.exe
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\VP.pdb
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\SiLab.dll
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\office.dll
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form1.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form10.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form12.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form8.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Form9.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.HIS_FORM.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.TTP.resources
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.exe.manifest
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.application
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.exe
+D:\筆電ATP_BACKUP\署桃\VPrint\VP\obj\Debug\VP.pdb
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.Form1.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.Form10.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.Form12.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.Form8.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.Form9.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.HIS_FORM.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.TTP.resources
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.exe
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\PRINTER.mdb
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\VP.exe.config
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\VP.exe.manifest
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\VP.application
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\VP.exe
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\VP.pdb
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\SiLab.dll
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\office.dll
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.exe.manifest
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.application
+D:\筆電ATP_BACKUP\署桃\20140107VPrint\VP\obj\Debug\VP.pdb
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.Form1.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.Form10.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.Form12.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.Form8.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.Form9.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.HIS_FORM.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.TTP.resources
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.exe
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.pdb
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\PRINTER.mdb
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\VP.exe.config
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\VP.exe.manifest
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\VP.application
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\VP.exe
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\VP.pdb
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\SiLab.dll
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\office.dll
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.exe.manifest
+D:\20120412\署桃\NewVPVer\20140516VPrint\VP\obj\Debug\VP.application
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\ResolveAssemblyReference.cache
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.Form1.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.Form10.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.Form12.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.Form8.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.Form9.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.HIS_FORM.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.TTP.resources
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.exe
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\PRINTER.mdb
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\VP.exe.config
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\VP.exe.manifest
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\VP.application
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\VP.exe
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\VP.pdb
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\SiLab.dll
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\office.dll
+D:\20120412\VIP100筆電\PressFitVP\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.exe.manifest
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.application
+D:\20120412\VIP100筆電\PressFitVP\VP\obj\Debug\VP.pdb
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\PRINTER.mdb
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\VP.exe.config
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\VP.exe.manifest
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\VP.application
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\VP.exe
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\VP.pdb
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\SiLab.dll
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\office.dll
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Form1.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Form10.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Form12.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Form8.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Form9.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.HIS_FORM.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.TTP.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Warning.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.exe.manifest
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.application
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.exe
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.pdb
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.Cassetes.resources
+D:\20120412\藥櫃-壓合式\PressFitVP\VP\obj\Debug\VP.csprojResolveAssemblyReference.cache
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\PRINTER.mdb
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\PRINTERDataSet.Designer.cs
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\PRINTERDataSet.xsc
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\PRINTERDataSet.xsd
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\PRINTERDataSet.xss
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\VP.exe.config
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\VP.exe.manifest
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\VP.application
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\VP.exe
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\VP.pdb
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\SiLab.dll
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\office.dll
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.csprojResolveAssemblyReference.cache
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Cassetes.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Form1.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Form10.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Form12.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Form8.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Form9.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.FREQ.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.HIS_FORM.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Properties.Resources.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.PRTFORM.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.RrportList.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.TAKE_TIME_INFO.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.TTP.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.Warning.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.csproj.GenerateResource.Cache
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.exe.manifest
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.application
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.exe
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.pdb
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.TEST.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.OPERRATION.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.PNumberSetting.resources
+D:\20120412\藥櫃-壓合式\20150615\PressFitVP\VP\obj\Debug\VP.SEARCH.resources

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="big5"?>
+<case
+  from="7054410400"
+  to=""
+  local_id="0008275"
+  date="20091015"
+  time="132959"
+  app="VISW"
+  request_method="">
+  <profile>
+    <person
+      name="蔡秋瓶"
+      type="0"
+      id="N221684895"
+      foreigner="no"
+      sex="0 女"
+      birth="19580303"
+      birth_order=" "
+      phone="29320287"
+      family=""
+      mobile=""
+      email=""
+      blood=""
+      blood_rh="">
+      <addr><![CDATA[台北市辛亥路4段101巷14-1號2F]]></addr>
+      <remark><![CDATA[]]></remark>
+      <allergy><![CDATA[]]></allergy>
+    </person>
+  </profile>
+  <insurance
+    insurance_type="A 天災"
+    serial_code="0001"
+    except_code=""
+    copayment_code="D10"
+    case_type="09 他專"
+    pay_type="1 一般"
+    ldistp_type="4 普疾"
+    release_type="0 自調" />
+  <study doctor_id="7054410400" subject="04 小兒  ">
+    <diseases>
+      <item code="4659" type="ICD9" desc="急性上呼吸道感染，未明示位置者" />
+    </diseases>
+    <treatments>
+    </treatments>
+    <chief_complain><![CDATA[CC:]]></chief_complain>
+    <physical_examination><![CDATA[]]></physical_examination>
+  </study>
+  <continous_prescription start_at="20091015" count="" total="" other_mo="" />
+  <orders
+    days="2"
+    mill="no"
+    dosage_method="5 次量法">
+    <item
+      remark="1"
+      local_code="CLEM"
+      id="A011898100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="2.000"
+      total_dose="4.00"
+      freq="BID 每日二次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="1.28"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Clemastine"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="FLU"
+      id="A029625100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="3.000"
+      total_dose="6.00"
+      freq="TID 每日三次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="0.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Fluency"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="BUS"
+      id="A036237100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="4.000"
+      total_dose="8.00"
+      freq="QID 每日四次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="1.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Buscopan"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="IMO"
+      id="A020159100"
+      type="2 內服"
+      divided_dose="1.000"
+      daily_dose="4.000"
+      total_dose="8.00"
+      freq="QID 每日四次"                         
+      days="2"                                       
+      way="PO 口服"                              
+      price="0.66"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Imodium"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+    <item
+      remark=""
+      local_code="DUO"
+      id="B017603399"
+      type="3 外用"
+      divided_dose="2.000"
+      daily_dose="2.000"
+      total_dose="2.00"
+      freq="HS 睡前服用"                         
+      days="3"                                       
+      way="EXT 外用"                              
+      price="0.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Duofilm"                                
+      dum="滴"                                 
+      dnop=""                                
+      dtp1="   4級" />                             
+  </orders>
+</case>

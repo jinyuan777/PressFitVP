@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="big5"?>
+<case
+  from="3536010986"
+  to=""
+  local_id="0049506"
+  date="0980930"
+  time="101006"
+  app="VISW"
+  request_method="EI">
+  <profile>
+    <person
+      name="莊于嫻"
+      type="0"
+      id="L225463103"
+      foreigner="no"
+      sex="0"
+      birth="0900906"
+      birth_order=" "
+      phone="25265067"
+      family=""
+      mobile=""
+      email=""
+      blood=""
+      blood_rh="">
+      <addr><![CDATA[豐原市西勢路114巷57弄9號]]></addr>
+      <remark><![CDATA[]]></remark>
+      <allergy><![CDATA[]]></allergy>
+    </person>
+  </profile>
+  <insurance
+    insurance_type="A"
+    serial_code="0007"
+    except_code=""
+    copayment_code="D10"
+    case_type="09"
+    pay_type="1"
+    ldistp_type="4"
+    release_type="0" />
+  <study doctor_id="3536010986" subject="09">
+    <diseases>
+      <item code="5649" type="ICD9" desc="功能性消化道疾病." />
+      <item code="7841" type="ICD9" desc="" />
+    </diseases>
+    <treatments>
+    </treatments>
+    <chief_complain><![CDATA[]]></chief_complain>
+    <physical_examination><![CDATA[]]></physical_examination>
+  </study>
+  <continous_prescription start_at="0980930" count="" total="" other_mo="" />
+  <orders
+    days="3"
+    mill="no"
+    dosage_method="5">
+    <item
+      remark="1"
+      local_code="CW"
+      id="A046440100"
+      type="2"
+      divided_dose="2.000"
+      daily_dose="8.000"
+      total_dose="24.00"
+      freq="4"                         
+      days="3"                                       
+      way="PO"                              
+      price="1.15"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Comewell (Alu. dihydroxyal)"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="" />                             
+    <item
+      remark=""
+      local_code="MO"
+      id="A034088100"
+      type="2"
+      divided_dose="2.000"
+      daily_dose="8.000"
+      total_dose="24.00"
+      freq="4"                         
+      days="3"                                       
+      way="PO"                              
+      price="1.00"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Motilium (Kantuu)"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="" />                             
+    <item
+      remark="*"
+      local_code="AT1G"
+      id="A034819100"
+      type="2"
+      divided_dose="2.000"
+      daily_dose="8.000"
+      total_dose="24.00"
+      freq="4"                         
+      days="3"                                       
+      way="PO"                              
+      price="0.30"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Acetaminophen (=PARA"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="" />                             
+    <item
+      remark=""
+      local_code="NA2B"
+      id="A020684100"
+      type="2"
+      divided_dose="2.000"
+      daily_dose="8.000"
+      total_dose="24.00"
+      freq="4"                         
+      days="3"                                       
+      way="PO"                              
+      price="1.41"                               
+      multiplier="1.00"                             
+      memo=""                             
+      desc="Naproxen(250mg) (Honlow)"                                
+      dum="#"                                 
+      dnop=""                                
+      dtp1="" />                             
+  </orders>
+</case>

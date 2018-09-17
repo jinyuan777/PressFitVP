@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="item">
+    <xs:complexType>
+      <xs:attribute name="code" type="xs:string" />
+      <xs:attribute name="type" type="xs:string" />
+      <xs:attribute name="desc" type="xs:string" />
+      <xs:attribute name="remark" type="xs:string" />
+      <xs:attribute name="local_code" type="xs:string" />
+      <xs:attribute name="id" type="xs:string" />
+      <xs:attribute name="divided_dose" type="xs:string" />
+      <xs:attribute name="daily_dose" type="xs:string" />
+      <xs:attribute name="total_dose" type="xs:string" />
+      <xs:attribute name="freq" type="xs:string" />
+      <xs:attribute name="days" type="xs:string" />
+      <xs:attribute name="way" type="xs:string" />
+      <xs:attribute name="price" type="xs:string" />
+      <xs:attribute name="multiplier" type="xs:string" />
+      <xs:attribute name="memo" type="xs:string" />
+      <xs:attribute name="dum" type="xs:string" />
+      <xs:attribute name="dnop" type="xs:string" />
+      <xs:attribute name="dtp1" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="case">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="profile" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="person" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="addr" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+                    <xs:element name="remark" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+                    <xs:element name="allergy" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+                  </xs:sequence>
+                  <xs:attribute name="name" type="xs:string" />
+                  <xs:attribute name="type" type="xs:string" />
+                  <xs:attribute name="id" type="xs:string" />
+                  <xs:attribute name="foreigner" type="xs:string" />
+                  <xs:attribute name="sex" type="xs:string" />
+                  <xs:attribute name="birth" type="xs:string" />
+                  <xs:attribute name="birth_order" type="xs:string" />
+                  <xs:attribute name="phone" type="xs:string" />
+                  <xs:attribute name="family" type="xs:string" />
+                  <xs:attribute name="mobile" type="xs:string" />
+                  <xs:attribute name="email" type="xs:string" />
+                  <xs:attribute name="blood" type="xs:string" />
+                  <xs:attribute name="blood_rh" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="insurance" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="insurance_type" type="xs:string" />
+            <xs:attribute name="serial_code" type="xs:string" />
+            <xs:attribute name="except_code" type="xs:string" />
+            <xs:attribute name="copayment_code" type="xs:string" />
+            <xs:attribute name="case_type" type="xs:string" />
+            <xs:attribute name="pay_type" type="xs:string" />
+            <xs:attribute name="ldistp_type" type="xs:string" />
+            <xs:attribute name="release_type" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="study" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="treatments" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="chief_complain" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+              <xs:element name="physical_examination" type="xs:string" minOccurs="0" msdata:Ordinal="3" />
+              <xs:element name="diseases" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="item" minOccurs="0" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="doctor_id" type="xs:string" />
+            <xs:attribute name="subject" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="continous_prescription" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="start_at" type="xs:string" />
+            <xs:attribute name="count" type="xs:string" />
+            <xs:attribute name="total" type="xs:string" />
+            <xs:attribute name="other_mo" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="orders" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element ref="item" minOccurs="0" maxOccurs="unbounded" />
+            </xs:sequence>
+            <xs:attribute name="days" type="xs:string" />
+            <xs:attribute name="mill" type="xs:string" />
+            <xs:attribute name="dosage_method" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="from" type="xs:string" />
+      <xs:attribute name="to" type="xs:string" />
+      <xs:attribute name="local_id" type="xs:string" />
+      <xs:attribute name="date" type="xs:string" />
+      <xs:attribute name="time" type="xs:string" />
+      <xs:attribute name="app" type="xs:string" />
+      <xs:attribute name="request_method" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="item" />
+        <xs:element ref="case" />
+        <xs:element name="caseFile">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="case_Id" type="xs:int" />
+              <xs:element name="filename" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="case_caseFile" msdata:parent="case" msdata:child="caseFile" msdata:parentkey="case_Id" msdata:childkey="case_Id" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9699B42F-19D5-43D3-9ECF-DE37027574A6}"
+	ProjectSection(SolutionItems) = preProject
+		vprint.xml = vprint.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VP", "VP.csproj", "{266C22EF-309E-4F08-89C5-5844C7B8F189}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VPrint", "..\SETUP\SETUP.vdproj", "{B787582B-CEA3-4FC1-8CE3-579261EC589C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266C22EF-309E-4F08-89C5-5844C7B8F189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266C22EF-309E-4F08-89C5-5844C7B8F189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266C22EF-309E-4F08-89C5-5844C7B8F189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266C22EF-309E-4F08-89C5-5844C7B8F189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B787582B-CEA3-4FC1-8CE3-579261EC589C}.Debug|Any CPU.ActiveCfg = Release
+		{B787582B-CEA3-4FC1-8CE3-579261EC589C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

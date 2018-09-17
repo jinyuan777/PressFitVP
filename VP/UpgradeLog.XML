@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VP">
+</Property><Property Name="方案檔" Value="D:\2.Project\T-P\C#\VPrint\VP\VP.sln">
+</Property><Property Name="使用者選項檔" Value="D:\2.Project\T-P\C#\VPrint\VP\VP.suo">
+</Property><Property Name="Date" Value="2009年10月5日">
+</Property><Property Name="Time" Value="下午 17:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VP.sln" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\VP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="VP.suo" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\VP.suo">
+</Event><Event ErrorLevel="0" Project="VP" Source="VP.csproj" Description="專案檔已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\VP.csproj">
+</Event><Event ErrorLevel="0" Project="VP" Source="VP.csproj.user" Description="專案使用者檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\VP.csproj.user">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form1.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form1.Designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form2.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form2.designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form2.designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form3.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form3.Designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form4.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form4.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form4.Designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="PRINTERDataSet.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\PRINTERDataSet.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="PRINTERDataSet.Designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\PRINTERDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Program.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Properties\AssemblyInfo.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Properties\Resources.Designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="Properties\Settings.Designer.cs" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VP" Source="app.config" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="VP" Source="PRINTERDataSet.xsc" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\PRINTERDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="VP" Source="PRINTERDataSet.xsd" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\PRINTERDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="VP" Source="PRINTERDataSet.xss" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\PRINTERDataSet.xss">
+</Event><Event ErrorLevel="0" Project="VP" Source="Properties\Settings.settings" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="VP" Source="Resources\SearchWebHS.png" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Resources\SearchWebHS.png">
+</Event><Event ErrorLevel="0" Project="VP" Source="Resources\saveHS.png" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Resources\saveHS.png">
+</Event><Event ErrorLevel="0" Project="VP" Source="Layout.xml" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Layout.xml">
+</Event><Event ErrorLevel="0" Project="VP" Source="SiUSBXp.dll" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\SiUSBXp.dll">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form1.resx" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form2.resx" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form3.resx" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="VP" Source="Form4.resx" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="VP" Source="Properties\Resources.resx" Description="檔案已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="VP" Source="VP.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="VP" Source="VP.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SETUP" Source="..\SETUP\SETUP.vdproj" Description="警告: 專案檔正備份到與原始方案相對路徑不同的相對路徑。不同的資料夾階層架構可能會在開啟或建置備份方案和專案時產生問題。">
+</Event><Event ErrorLevel="0" Project="SETUP.vdproj" Source="..\SETUP\SETUP.vdproj" Description="專案檔已成功備份為 D:\2.Project\T-P\C#\VPrint\VP\Backup\SETUP\SETUP.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="VP.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="VP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VP" Source="VP.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
