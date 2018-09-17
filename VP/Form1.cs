@@ -573,14 +573,14 @@ namespace VP
                 char[] CasseteSendTest;
                 PillTemp = string.Empty;
                 PillSelect = string.Empty;
-                /*
+                
                 foreach (var c in CassetteInfos[CassetDropCount % CassetteInfos.Count]) 
                 {
                     PillTemp += c.Key.PadLeft(3, '0') + c.Value.ToString().PadLeft(2, '0');
                 }
                 PillSelect += "A" + CassetteInfos[CassetDropCount % CassetteInfos.Count].Count.ToString().PadLeft(2, '0') + ":" + PillTemp;
-                CasseteSendTest = PillSelect.ToCharArray();*/
-                CasseteSendTest = new char[] { 'A', '0', '1', ':', '0', '0', '6', '0', '1' };//ÃÄ²°¸¹½X+±¼ÃÄÁû¼Æ
+                CasseteSendTest = PillSelect.ToCharArray();
+                //CasseteSendTest = new char[] { 'A', '0', '1', ':', '0', '0', '6', '0', '1' };//ÃÄ²°¸¹½X+±¼ÃÄÁû¼Æ
 
                 byte[] ByteInfo = Encoding.Default.GetBytes(CasseteSendTest);
                 lock (lockMe)
